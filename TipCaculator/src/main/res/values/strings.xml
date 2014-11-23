@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount_textview">Amount</string>
+    <string name="percentage_textview">Custom %</string>
+    <string name="percentage_15_textview">15%</string>
+    <string name="percentage_custome_textview">18%</string>
+    <string name="tip_textview">Tip</string>
+    <string name="total_textview">Total</string>
+
+</resources>
