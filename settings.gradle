@@ -1,1 +1,1 @@
-include ':TipCaculator'
+include ':TipCaculator', ':TweetSearches'
